@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: mraible/gatsby-netlify-okta-example
+  branch: main
 
 media_folder: static/assets
 public_folder: assets
